@@ -1,0 +1,29 @@
+main{
+    padding: 20px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.card{
+    width: 30%;
+    margin: 0px auto;
+    border-radius: 5px;
+    margin-top: 100px;
+    padding: 40px;
+    text-align: center;
+}
+main form p{
+    text-align: end;
+}
+
+.txt_btn{
+    text-align: end;
+}
+select{
+    display: block !important;
+}
+
+form{
+    margin-left: 10%;
+    margin-right: 10%;
+}
